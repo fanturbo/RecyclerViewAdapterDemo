@@ -11,7 +11,6 @@ import android.widget.TextView;
 
 import com.turbo.recyclerviewadapterdemo.R;
 import com.turbo.recyclerviewadapterdemo.Test1;
-import com.turbo.recyclerviewadapterdemo.Test2;
 
 /**
  * Created by tubro on 2018/3/23.
